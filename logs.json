@@ -638,5 +638,13 @@
         "train_loss": 4.679691104888916,
         "val_loss": 4.737184047698975,
         "learning_rate": 2.105263157894737e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 1,
+        "epoch": 1,
+        "train_loss": 4.708464499473572,
+        "val_loss": 4.400915145874023,
+        "learning_rate": 2e-05
     }
 ]
