@@ -646,5 +646,77 @@
         "train_loss": 4.708464499473572,
         "val_loss": 4.400915145874023,
         "learning_rate": 2e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 1,
+        "epoch": 2,
+        "train_loss": 4.665938497543335,
+        "val_loss": 4.361384868621826,
+        "learning_rate": 1.8947368421052634e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 2,
+        "epoch": 1,
+        "train_loss": 4.7157636709213255,
+        "val_loss": 4.490066051483154,
+        "learning_rate": 1.7894736842105264e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 2,
+        "epoch": 2,
+        "train_loss": 4.677428488731384,
+        "val_loss": 4.77333927154541,
+        "learning_rate": 1.6842105263157896e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 3,
+        "epoch": 1,
+        "train_loss": 4.697539119243622,
+        "val_loss": 4.755266189575195,
+        "learning_rate": 1.5789473684210526e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 3,
+        "epoch": 2,
+        "train_loss": 4.661643567562103,
+        "val_loss": 4.46560001373291,
+        "learning_rate": 1.4736842105263157e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 4,
+        "epoch": 1,
+        "train_loss": 4.678793793678284,
+        "val_loss": 4.7055745124816895,
+        "learning_rate": 1.3684210526315791e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 4,
+        "epoch": 2,
+        "train_loss": 4.64942706155777,
+        "val_loss": 4.579992771148682,
+        "learning_rate": 1.2631578947368422e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 5,
+        "epoch": 1,
+        "train_loss": 4.685243762016296,
+        "val_loss": 4.8199028968811035,
+        "learning_rate": 1.1578947368421053e-05
+    },
+    {
+        "shard": 5,
+        "chunk": 5,
+        "epoch": 2,
+        "train_loss": 4.657370863437652,
+        "val_loss": 4.778375148773193,
+        "learning_rate": 1.0526315789473684e-05
     }
 ]
