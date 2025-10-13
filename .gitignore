@@ -1,0 +1,13 @@
+/__pycache__
+/best_checkpoint
+/dataset
+/ed_workspace
+/zarchive
+count_of_lines.py
+chunk_json.py
+filter_jsonl.py
+experiment.py
+/train/2
+/train/3
+/train/4
+/train/5

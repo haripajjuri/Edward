@@ -1,0 +1,642 @@
+[
+    {
+        "shard": 1,
+        "chunk": 1,
+        "epoch": 1,
+        "train_loss": 8.51593641614914,
+        "val_loss": 7.515869617462158,
+        "learning_rate": 2e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 1,
+        "epoch": 2,
+        "train_loss": 7.288413022041321,
+        "val_loss": 7.261042594909668,
+        "learning_rate": 4e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 2,
+        "epoch": 1,
+        "train_loss": 6.977096998691559,
+        "val_loss": 6.761195659637451,
+        "learning_rate": 6e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 2,
+        "epoch": 2,
+        "train_loss": 6.656172465324402,
+        "val_loss": 6.502407073974609,
+        "learning_rate": 8e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 3,
+        "epoch": 1,
+        "train_loss": 6.4885837059021,
+        "val_loss": 6.485713005065918,
+        "learning_rate": 0.0001
+    },
+    {
+        "shard": 1,
+        "chunk": 3,
+        "epoch": 2,
+        "train_loss": 6.287300707817078,
+        "val_loss": 6.317965030670166,
+        "learning_rate": 9.894736842105263e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 4,
+        "epoch": 1,
+        "train_loss": 6.212804112911225,
+        "val_loss": 6.1445183753967285,
+        "learning_rate": 9.789473684210527e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 4,
+        "epoch": 2,
+        "train_loss": 6.038676510334015,
+        "val_loss": 5.917632579803467,
+        "learning_rate": 9.68421052631579e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 5,
+        "epoch": 1,
+        "train_loss": 6.001785359859467,
+        "val_loss": 6.054525852203369,
+        "learning_rate": 9.578947368421052e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 5,
+        "epoch": 2,
+        "train_loss": 5.849083456516266,
+        "val_loss": 5.777072906494141,
+        "learning_rate": 9.473684210526316e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 6,
+        "epoch": 1,
+        "train_loss": 5.834900532245636,
+        "val_loss": 5.905917167663574,
+        "learning_rate": 9.36842105263158e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 6,
+        "epoch": 2,
+        "train_loss": 5.693830323696137,
+        "val_loss": 5.72165060043335,
+        "learning_rate": 9.263157894736843e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 7,
+        "epoch": 1,
+        "train_loss": 5.708924650192261,
+        "val_loss": 5.625941753387451,
+        "learning_rate": 9.157894736842105e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 7,
+        "epoch": 2,
+        "train_loss": 5.579330515861511,
+        "val_loss": 5.297635555267334,
+        "learning_rate": 9.052631578947369e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 8,
+        "epoch": 1,
+        "train_loss": 5.615907889842987,
+        "val_loss": 5.844370365142822,
+        "learning_rate": 8.947368421052632e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 8,
+        "epoch": 2,
+        "train_loss": 5.492058543205261,
+        "val_loss": 5.527981281280518,
+        "learning_rate": 8.842105263157894e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 9,
+        "epoch": 1,
+        "train_loss": 5.521659164905548,
+        "val_loss": 5.507014751434326,
+        "learning_rate": 8.736842105263158e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 9,
+        "epoch": 2,
+        "train_loss": 5.404040817737579,
+        "val_loss": 5.5417327880859375,
+        "learning_rate": 8.631578947368421e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 10,
+        "epoch": 1,
+        "train_loss": 5.461131019115448,
+        "val_loss": 5.459481716156006,
+        "learning_rate": 8.526315789473685e-05
+    },
+    {
+        "shard": 1,
+        "chunk": 10,
+        "epoch": 2,
+        "train_loss": 5.34369578409195,
+        "val_loss": 5.323544979095459,
+        "learning_rate": 8.421052631578948e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 1,
+        "epoch": 1,
+        "train_loss": 5.391390827655792,
+        "val_loss": 5.510344982147217,
+        "learning_rate": 8.315789473684212e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 1,
+        "epoch": 2,
+        "train_loss": 5.280864170074463,
+        "val_loss": 5.509781837463379,
+        "learning_rate": 8.210526315789474e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 2,
+        "epoch": 1,
+        "train_loss": 5.343535126686096,
+        "val_loss": 5.194899559020996,
+        "learning_rate": 8.105263157894737e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 2,
+        "epoch": 2,
+        "train_loss": 5.2343202042579655,
+        "val_loss": 5.427635669708252,
+        "learning_rate": 8e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 3,
+        "epoch": 1,
+        "train_loss": 5.300947157859802,
+        "val_loss": 5.20967435836792,
+        "learning_rate": 7.894736842105263e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 3,
+        "epoch": 2,
+        "train_loss": 5.196595439434051,
+        "val_loss": 5.354880332946777,
+        "learning_rate": 7.789473684210526e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 4,
+        "epoch": 1,
+        "train_loss": 5.2594959063529965,
+        "val_loss": 5.241971492767334,
+        "learning_rate": 7.68421052631579e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 4,
+        "epoch": 2,
+        "train_loss": 5.154868257522583,
+        "val_loss": 5.091332912445068,
+        "learning_rate": 7.578947368421054e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 5,
+        "epoch": 1,
+        "train_loss": 5.217725323677063,
+        "val_loss": 5.184436321258545,
+        "learning_rate": 7.473684210526316e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 5,
+        "epoch": 2,
+        "train_loss": 5.116331634044648,
+        "val_loss": 4.910058975219727,
+        "learning_rate": 7.368421052631579e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 6,
+        "epoch": 1,
+        "train_loss": 5.179708391666412,
+        "val_loss": 5.048422336578369,
+        "learning_rate": 7.263157894736843e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 6,
+        "epoch": 2,
+        "train_loss": 5.082149127483368,
+        "val_loss": 5.215963363647461,
+        "learning_rate": 7.157894736842105e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 7,
+        "epoch": 1,
+        "train_loss": 5.15434146642685,
+        "val_loss": 4.936141014099121,
+        "learning_rate": 7.052631578947368e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 7,
+        "epoch": 2,
+        "train_loss": 5.058861015796661,
+        "val_loss": 5.236672878265381,
+        "learning_rate": 6.947368421052632e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 8,
+        "epoch": 1,
+        "train_loss": 5.114736808300019,
+        "val_loss": 5.215732574462891,
+        "learning_rate": 6.842105263157895e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 8,
+        "epoch": 2,
+        "train_loss": 5.01753176021576,
+        "val_loss": 5.12685489654541,
+        "learning_rate": 6.736842105263159e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 9,
+        "epoch": 1,
+        "train_loss": 5.086058424472808,
+        "val_loss": 4.823337078094482,
+        "learning_rate": 6.631578947368421e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 9,
+        "epoch": 2,
+        "train_loss": 4.990198439598084,
+        "val_loss": 5.031724452972412,
+        "learning_rate": 6.526315789473685e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 10,
+        "epoch": 1,
+        "train_loss": 5.067034679412842,
+        "val_loss": 5.194481372833252,
+        "learning_rate": 6.421052631578948e-05
+    },
+    {
+        "shard": 2,
+        "chunk": 10,
+        "epoch": 2,
+        "train_loss": 4.974023579120636,
+        "val_loss": 4.720789909362793,
+        "learning_rate": 6.31578947368421e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 1,
+        "epoch": 1,
+        "train_loss": 5.038997424125672,
+        "val_loss": 5.097172737121582,
+        "learning_rate": 6.210526315789474e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 1,
+        "epoch": 2,
+        "train_loss": 4.950076417922974,
+        "val_loss": 4.836759567260742,
+        "learning_rate": 6.105263157894737e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 2,
+        "epoch": 1,
+        "train_loss": 5.018947980880737,
+        "val_loss": 5.160451889038086,
+        "learning_rate": 6e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 2,
+        "epoch": 2,
+        "train_loss": 4.930325524330139,
+        "val_loss": 5.1010308265686035,
+        "learning_rate": 5.894736842105263e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 3,
+        "epoch": 1,
+        "train_loss": 5.001051948547364,
+        "val_loss": 4.9564690589904785,
+        "learning_rate": 5.789473684210527e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 3,
+        "epoch": 2,
+        "train_loss": 4.9139200096130375,
+        "val_loss": 4.776192665100098,
+        "learning_rate": 5.68421052631579e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 4,
+        "epoch": 1,
+        "train_loss": 4.977883940219879,
+        "val_loss": 4.7424540519714355,
+        "learning_rate": 5.5789473684210526e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 4,
+        "epoch": 2,
+        "train_loss": 4.896963259220123,
+        "val_loss": 4.969601631164551,
+        "learning_rate": 5.4736842105263165e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 5,
+        "epoch": 1,
+        "train_loss": 4.9578178672790525,
+        "val_loss": 5.389627933502197,
+        "learning_rate": 5.368421052631579e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 5,
+        "epoch": 2,
+        "train_loss": 4.877874574661255,
+        "val_loss": 4.678488254547119,
+        "learning_rate": 5.2631578947368424e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 6,
+        "epoch": 1,
+        "train_loss": 4.935451775550843,
+        "val_loss": 4.93141508102417,
+        "learning_rate": 5.157894736842106e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 6,
+        "epoch": 2,
+        "train_loss": 4.857308969974518,
+        "val_loss": 4.655290126800537,
+        "learning_rate": 5.052631578947369e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 7,
+        "epoch": 1,
+        "train_loss": 4.911258229255676,
+        "val_loss": 4.819401264190674,
+        "learning_rate": 4.9473684210526315e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 7,
+        "epoch": 2,
+        "train_loss": 4.835661571025849,
+        "val_loss": 5.051739692687988,
+        "learning_rate": 4.842105263157895e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 8,
+        "epoch": 1,
+        "train_loss": 4.8958381981849675,
+        "val_loss": 4.869219779968262,
+        "learning_rate": 4.736842105263158e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 8,
+        "epoch": 2,
+        "train_loss": 4.821069181919098,
+        "val_loss": 5.09283447265625,
+        "learning_rate": 4.6315789473684214e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 9,
+        "epoch": 1,
+        "train_loss": 4.876145317077636,
+        "val_loss": 4.809831619262695,
+        "learning_rate": 4.5263157894736846e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 9,
+        "epoch": 2,
+        "train_loss": 4.802527211666107,
+        "val_loss": 4.73753547668457,
+        "learning_rate": 4.421052631578947e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 10,
+        "epoch": 1,
+        "train_loss": 4.866418155670166,
+        "val_loss": 4.962937831878662,
+        "learning_rate": 4.3157894736842105e-05
+    },
+    {
+        "shard": 3,
+        "chunk": 10,
+        "epoch": 2,
+        "train_loss": 4.795147953510284,
+        "val_loss": 4.5793561935424805,
+        "learning_rate": 4.210526315789474e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 1,
+        "epoch": 1,
+        "train_loss": 4.853334772109985,
+        "val_loss": 4.820897579193115,
+        "learning_rate": 4.105263157894737e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 1,
+        "epoch": 2,
+        "train_loss": 4.782130785465241,
+        "val_loss": 4.669733047485352,
+        "learning_rate": 4e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 2,
+        "epoch": 1,
+        "train_loss": 4.825543871402741,
+        "val_loss": 5.132942199707031,
+        "learning_rate": 3.894736842105263e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 2,
+        "epoch": 2,
+        "train_loss": 4.760134688377381,
+        "val_loss": 4.813535213470459,
+        "learning_rate": 3.789473684210527e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 3,
+        "epoch": 1,
+        "train_loss": 4.808192940235138,
+        "val_loss": 5.123856544494629,
+        "learning_rate": 3.6842105263157895e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 3,
+        "epoch": 2,
+        "train_loss": 4.742667238712311,
+        "val_loss": 5.056484222412109,
+        "learning_rate": 3.578947368421053e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 4,
+        "epoch": 1,
+        "train_loss": 4.803430593013763,
+        "val_loss": 4.8995561599731445,
+        "learning_rate": 3.473684210526316e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 4,
+        "epoch": 2,
+        "train_loss": 4.740087870597839,
+        "val_loss": 4.642472267150879,
+        "learning_rate": 3.368421052631579e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 5,
+        "epoch": 1,
+        "train_loss": 4.782627547740936,
+        "val_loss": 4.647139549255371,
+        "learning_rate": 3.2631578947368426e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 5,
+        "epoch": 2,
+        "train_loss": 4.722272531032562,
+        "val_loss": 4.578171730041504,
+        "learning_rate": 3.157894736842105e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 6,
+        "epoch": 1,
+        "train_loss": 4.759841589927674,
+        "val_loss": 4.924154758453369,
+        "learning_rate": 3.0526315789473684e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 6,
+        "epoch": 2,
+        "train_loss": 4.70366036939621,
+        "val_loss": 4.754418849945068,
+        "learning_rate": 2.9473684210526314e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 7,
+        "epoch": 1,
+        "train_loss": 4.759232063293457,
+        "val_loss": 4.566579341888428,
+        "learning_rate": 2.842105263157895e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 7,
+        "epoch": 2,
+        "train_loss": 4.704472277164459,
+        "val_loss": 4.7558441162109375,
+        "learning_rate": 2.7368421052631583e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 8,
+        "epoch": 1,
+        "train_loss": 4.738711078166961,
+        "val_loss": 4.64921236038208,
+        "learning_rate": 2.6315789473684212e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 8,
+        "epoch": 2,
+        "train_loss": 4.687633867740631,
+        "val_loss": 4.5348310470581055,
+        "learning_rate": 2.5263157894736845e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 9,
+        "epoch": 1,
+        "train_loss": 4.730036102771759,
+        "val_loss": 4.835978031158447,
+        "learning_rate": 2.4210526315789474e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 9,
+        "epoch": 2,
+        "train_loss": 4.682661673784256,
+        "val_loss": 4.555068492889404,
+        "learning_rate": 2.3157894736842107e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 10,
+        "epoch": 1,
+        "train_loss": 4.7241962063312535,
+        "val_loss": 4.8775506019592285,
+        "learning_rate": 2.2105263157894736e-05
+    },
+    {
+        "shard": 4,
+        "chunk": 10,
+        "epoch": 2,
+        "train_loss": 4.679691104888916,
+        "val_loss": 4.737184047698975,
+        "learning_rate": 2.105263157894737e-05
+    }
+]
